@@ -17,7 +17,9 @@ public class Manip {
 
 	public int getMain2() {
 		return main2;
-
 	}
 
+	public void main3() {
+		// corrige un bug
+	}
 }
